@@ -1,0 +1,1 @@
+To run this program, just run `python3 accordions.py --help` from the command line and you will get some usage instructions.  If you run it without additional arguments the inventory list will be printed as it appears in the input file.  To filter on attributes, you can add them as command line arguments.
